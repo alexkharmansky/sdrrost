@@ -1,0 +1,36 @@
+body {
+  min-width: 960px;
+}
+.main_top {
+  display: inline;
+  animation-delay: 1s;
+}
+.s {
+  animation-delay: 1.2s;
+}
+.dnem {
+  animation-delay: 1.4s;
+}
+.rojdeniya {
+  animation-delay: 1.6s;
+  width: 50vw;
+}
+.main_bot {
+  display: inline;
+  animation-delay: 2s;
+}
+.r {
+  animation-delay: 2.2s;
+}
+.o {
+  animation-delay: 2.4s;
+}
+.s2 {
+  animation-delay: 2.6s;
+}
+.t {
+  animation-delay: 2.8s;
+}
+.exclamation {
+  animation-delay: 3s;
+}
